@@ -1,0 +1,6 @@
+/usr/bin/make -f /home/cs689/src/16f/makefile9 N=9
+make[1]: Entering directory '/home/courses/z1808662/689/Assignment9'
+g++ -std=c++11 -c -g -Wall -Wextra prog9.cc
+/home/cs689/src/16f/makefile9:11: recipe for target 'prog9.o' failed
+make[1]: Leaving directory '/home/courses/z1808662/689/Assignment9'
+/home/cs689/src/Makefile:5: recipe for target 'target' failed
